@@ -1,12 +1,11 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=ADARSH%20S&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Data%20Science%20%7C%20AI%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=190&section=header&text=ADARSH%20S&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=DATA%20SCIENCE%20%7C%20AI%20ENGINEERING%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=58&descSize=17" width="100%"/>
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Engineering+Student;Building+Production-Grade+AI+Applications;LLM+%7C+RAG+%7C+Agentic+AI+%7C+MCP;Full-Stack+Analytics+%7C+React+%7C+FastAPI;Engineering+Products+That+Turn+Data+Into+Decisions" target="_blank">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Engineering+Student;Building+Production-Grade+AI+Applications;LLM+%7C+RAG+%7C+Agentic+AI+%7C+MCP;Full-Stack+Analytics+%7C+React+%7C+FastAPI;Engineering+Products+That+Turn+Data+Into+Decisions" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Data+Science+%26+AI+Engineering+Student;Building+Production-Grade+AI+Applications;LLM+%7C+RAG+%7C+Agentic+AI+%7C+MCP;Full-Stack+Analytics+%7C+React+%7C+FastAPI;Engineering+Products+That+Turn+Data+Into+Decisions" alt="Typing SVG"/>
 
 <br><br>
 
@@ -18,7 +17,7 @@
 <br><br>
 
 <a href="https://github.com/adarsh27062005-prog">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/adarsh5744">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,13 +41,13 @@
 
 # About
 
-I am a **4th-year Integrated M.Sc. Data Science student at Amrita Vishwa Vidyapeetham** focused on building production-grade applications at the intersection of **software engineering, artificial intelligence, machine learning, and data analytics**.
+I am a **4th-year Integrated M.Sc. Data Science student at Amrita Vishwa Vidyapeetham** focused on building production-grade systems at the intersection of **software engineering, artificial intelligence, machine learning, and data analytics**.
 
-My engineering work spans **Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, LLM integrations, RAG pipelines, Agentic AI workflows, MCP, and analytics platforms**.
+My engineering work spans **Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, LLM integrations, RAG pipelines, Agentic AI workflows, MCP, and interactive analytics platforms**.
 
-I approach AI development from a product-engineering perspective: the objective is not simply to integrate a model, but to engineer reliable systems around it — including data pipelines, APIs, authentication, orchestration, evaluation, observability, and usable interfaces.
+I approach AI from a product-engineering perspective: the objective is not simply to connect an API to a model, but to engineer reliable systems around it — including data pipelines, APIs, orchestration, validation, security, analytics, and usable interfaces.
 
-I have built AI-powered systems for **healthcare analytics, enterprise data quality, educational technology, railway intelligence, anomaly detection, forecasting, document intelligence, and natural-language analytics**.
+I have built AI-powered systems across **healthcare analytics, enterprise data quality, educational technology, railway intelligence, anomaly detection, forecasting, document intelligence, and natural-language analytics**.
 
 ### Engineering Focus
 
@@ -77,6 +76,8 @@ I have built AI-powered systems for **healthcare analytics, enterprise data qual
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,r,mysql&theme=dark" />
 
 </div>
+
+**Core:** Python · Pandas · NumPy · JavaScript · TypeScript · SQL/MySQL · R · C++
 
 ## Frontend
 
@@ -114,16 +115,16 @@ I have built AI-powered systems for **healthcare analytics, enterprise data qual
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Agentic AI | Advanced | Multi-agent workflows, orchestration, tool-driven AI applications |
-| LLM Engineering | Advanced | Groq / Gemini API integration, LLM-powered application architecture |
-| RAG | Advanced | Document retrieval, vector search, PDF intelligence, AI explainers |
-| Model Context Protocol | Advanced | MCP-based AI tooling and educational application development |
-| Machine Learning | Intermediate | Scikit-learn, anomaly detection, forecasting and ML pipelines |
-| Data Science | Advanced | Python, Pandas, NumPy, EDA, statistical analysis and data validation |
-| Data Analytics | Advanced | KPI extraction, business intelligence, Power BI, Tableau and Excel |
-| AI Document Intelligence | Advanced | PDF analysis, natural-language querying and automated reporting |
-| Anomaly Detection | Advanced | Rule-based and ML-assisted anomaly identification |
-| AI Product Engineering | Advanced | End-to-end AI systems combining models, APIs, data and interfaces |
+| **Agentic AI** | Advanced | Multi-agent workflows, orchestration and tool-driven AI applications |
+| **LLM Engineering** | Advanced | Groq / Gemini API integration and LLM-powered application architecture |
+| **RAG** | Advanced | Document retrieval, vector search, PDF intelligence and AI explainers |
+| **Model Context Protocol** | Advanced | MCP-based AI tooling and educational application development |
+| **Machine Learning** | Intermediate | Scikit-learn, anomaly detection, forecasting and ML pipelines |
+| **Data Science** | Advanced | Python, Pandas, NumPy, EDA, statistical analysis and data validation |
+| **Data Analytics** | Advanced | KPI extraction, Power BI, Tableau, Excel and business intelligence |
+| **Document Intelligence** | Advanced | PDF analysis, natural-language querying and automated reporting |
+| **Anomaly Detection** | Advanced | Rule-based and ML-assisted anomaly identification |
+| **AI Product Engineering** | Advanced | End-to-end AI systems combining models, APIs, data and interfaces |
 
 ---
 
@@ -332,7 +333,7 @@ Performed end-to-end analytics across industrial datasets and developed interact
 </a>
 
 <a href="https://nptel.ac.in/">
-<img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20Quantum%20Computing%20%26%20Qiskit-4C1D95?style=for-the-badge&logo=quantum&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20Quantum%20Computing%20%26%20Qiskit-4C1D95?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
 ## Maiyyam EdTech
@@ -342,7 +343,7 @@ Performed end-to-end analytics across industrial datasets and developed interact
 </a>
 
 <a href="https://maiyyamedtech.com/">
-<img src="https://img.shields.io/badge/Maiyyam%20EdTech-Data%20Analytics%20Using%20MS%20Excel-6D28D9?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maiyyam%20EdTech-Data%20Analytics%20Using%20MS%20Excel-6D28D9?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
 <a href="https://maiyyamedtech.com/">
@@ -383,17 +384,13 @@ Performed end-to-end analytics across industrial datasets and developed interact
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh27062005-prog&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adarsh27062005-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C4B5FD" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=adarsh27062005-prog&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=adarsh27062005-prog&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" width="49%" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh27062005-prog&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh27062005-prog&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" width="50%" />
 
 </div>
 
@@ -403,7 +400,7 @@ Performed end-to-end analytics across industrial datasets and developed interact
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adarsh27062005-prog&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adarsh27062005-prog&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
 
 </div>
 
@@ -413,7 +410,7 @@ Performed end-to-end analytics across industrial datasets and developed interact
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh27062005-prog&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh27062005-prog&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
@@ -430,6 +427,8 @@ Performed end-to-end analytics across industrial datasets and developed interact
 </picture>
 
 </div>
+
+---
 
 # Current Focus
 
@@ -464,3 +463,39 @@ Open To:
   - Full-Stack Product Development
   - Research & Engineering Collaborations
   - Open Source Contributions
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:adarsh27062005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-adarsh27062005%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/adarsh5744">
+<img src="https://img.shields.io/badge/LinkedIn-adarsh5744-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/adarsh27062005-prog">
+<img src="https://img.shields.io/badge/GitHub-adarsh27062005--prog-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/adarsh27062005-prog">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<strong>Engineering intelligent systems that turn data, models, and software into products.</strong>
+
+</div>
+
